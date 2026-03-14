@@ -11,7 +11,7 @@
 
 ## 📊 Live Demo
 ![Dashboard Screenshot](uber_chart.png)
-
+Add: `![Dashboard](uber_stock.png.png)
 ## 🛠️ Tech Stack
 Python | NumPy | Pandas | Matplotlib | HTML5 | CSS3 | Vanilla JavaScript
 ## 🚀 Quick Start
